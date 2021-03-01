@@ -7,7 +7,6 @@ import sprite.Ball;
 
 /**
  * @ Roi Hendler <roihendler22@gmail.com>
- * @ ID: 208728337
  * @ version: 4
  * @ since: 11/06/2020
  */
