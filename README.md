@@ -7,8 +7,7 @@ There are several levels in this game.
 ## The game is implemented in Java using OOP principles:
 - [x] Use of polymorphism and inheritance.
 - [x] Using java collections and data structures.
-- [x] Creating game levels with different difficulties.
-- [x] Familiarity with basic design patterns in OOP like observer.
+- [x] Familiarity with design patterns in OOP.
 - [x] keep open/closed principle states.
 - [x] Working with GUI.
  ## sample
