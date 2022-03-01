@@ -1,9 +1,4 @@
 package animations;
-/**
- * @ Roi Hendler <roihendler22@gmail.com>
- * @ version: 4
- * @ since: 11/06/2020
- */
 
 import biuoop.DrawSurface;
 import game.levels.GameFlow;
